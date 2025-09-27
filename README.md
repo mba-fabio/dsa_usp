@@ -1,4 +1,4 @@
-# Otimização da Distribuição de Estoque de Joias com Machine Learning
+# Otimização da distribuição de estoque de joias: modelos preditivos no mercado de luxo “second hand”
 
 **Autor:** Fabio Miguel de Barros Albuquerque  
 **Projeto:** Trabalho de Conclusão de Curso (TCC) - MBA em Data Science & Analytics, MBA USP/Esalq (2025)
