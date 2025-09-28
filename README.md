@@ -56,13 +56,3 @@ seaborn
 ### Execução
 
 O script foi desenvolvido em um ambiente Jupyter Notebook (`.ipynb`). Para executar a análise, basta abrir o arquivo `20250831_Otimizacao_Estoque_Joias_Usadas.ipynb` em um ambiente com os pré-requisitos instalados (como o Google Colab ou uma instalação local do Jupyter) e executar as células em ordem sequencial.
-
-## 6\. Principais Resultados
-
-A análise comparativa revelou um achado central: a simplicidade metodológica superou a complexidade.
-
-  * O modelo de **Regressão Logística Multinomial**, o mais simples e interpretável, apresentou a melhor performance geral, com um **F1-Score de 62,9%** no conjunto de teste.
-  * Modelos mais complexos, como as **Florestas Aleatórias**, mesmo após otimização de hiperparâmetros, não apresentaram ganhos de acurácia que justificassem a perda de interpretabilidade.
-  * A engenharia de atributos com as coordenadas da ACM demonstrou ser **prejudicial à performance** dos modelos baseados em árvores.
-
-A conclusão do estudo valida um *framework* de decisão que, na ausência de ganhos preditivos expressivos, prioriza modelos que oferecem maior clareza e valor estratégico para o negócio.
